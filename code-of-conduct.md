@@ -1,0 +1,3 @@
+Kubernetes Community Code of Conduct
+Kubernetes follows the CNCF Code of Conduct.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the Kubernetes Code of Conduct Committee via conduct@kubernetes.io.
