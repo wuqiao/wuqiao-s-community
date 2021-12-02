@@ -1,5 +1,5 @@
 # wuqiao-s-community
-#Contribute to starrocks
+# Contribute to starrocks
 
 For details on how to contribute to starrocks, please refer to the [contributor's Guide]().
 
